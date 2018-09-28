@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AlexCEv6b.unity
+  isLoaded: 1
+  isActive: 1
